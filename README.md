@@ -28,7 +28,7 @@ The project consists of 2 pages. The first page displays a table after an api ca
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL: [Project](https://affectionate-sinoussi-30e310.netlify.app/)
 
 ### Built with
 
