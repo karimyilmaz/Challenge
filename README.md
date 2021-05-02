@@ -26,7 +26,7 @@ The project consists of 2 pages. The first page displays a table after an api ca
 
 
 
-### Links
+### Linkss
 
 - URL: [Project](https://affectionate-sinoussi-30e310.netlify.app/)
 
