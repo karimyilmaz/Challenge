@@ -19,14 +19,14 @@ The project consists of 2 pages. The first page displays a table after an api ca
 ![challenge](https://user-images.githubusercontent.com/20302651/116816194-a39fb280-ab69-11eb-9112-290a7922885b.png)
 ![challenge2](https://user-images.githubusercontent.com/20302651/116816226-b87c4600-ab69-11eb-9bcd-90af38fe3909.png)
 
-#### Page 2 Contact
+#### Page 2 Contact us
 ![challenge3](https://user-images.githubusercontent.com/20302651/116816238-bfa35400-ab69-11eb-8a3c-07efe1e72458.png)
 ![challenge4](https://user-images.githubusercontent.com/20302651/116816242-c336db00-ab69-11eb-88dc-4864347efe70.png)
 
 
 
 
-### Linkss
+### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
