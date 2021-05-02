@@ -10,7 +10,7 @@
 
 ### Overview
 
-The project consists of 2 pages. The first page displays a table after an api call. The table displays all the countries in the world starting from Afghanistan. You can use the filter feature to display countries based on their region. The second page provides a contact form where the request is being submitted via [formspree.io](https://formspree.io)
+The project consists of 2 pages. The first page displays a table after an api call. The table displays all the countries in the world starting from Afghanistan. You can use the filter feature to display countries based on their region. The second page provides a contact form where the request is being submitted via [formspree.io](https://formspree.io). The project is mobile friendly.
    
 
 ### Screenshots
