@@ -4,7 +4,7 @@
 
 - [Overview](#Overview)
 - [Screenshots](#screenshots)
-- [Links](#links)
+- [Link](#link)
 - [Built with](#built-with)
 
 
@@ -26,9 +26,9 @@ The project consists of 2 pages. The first page displays a table after an api ca
 
 
 
-### Linkss
+### Link
 
-- URL: [Project](https://affectionate-sinoussi-30e310.netlify.app/)
+- URL: [Project](https://zealous-easley-309d88.netlify.app/)
 
 ### Built with
 
