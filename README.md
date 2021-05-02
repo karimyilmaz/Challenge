@@ -19,7 +19,7 @@ The project consists of 2 pages. The first page displays a table after an api ca
 
 
 
-### Links
+### Linkss
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
