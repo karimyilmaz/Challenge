@@ -15,7 +15,7 @@ export const App = () => {
       
       
       <Switch>
-        <Route path='/#/contact' component={Contact} />
+        <Route path='#/contact' component={Contact} />
         <Route path='/' component={Home} />
       </Switch>
     </Router>
